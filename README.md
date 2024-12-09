@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumya sundaram</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Python, R, SQL, JavaScript**
 
 - 📫 How to reach me **Saumya.sundaram23@gmail.com**
+
+- ⚡ Fun fact **I believe I am adaptive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
